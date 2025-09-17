@@ -1,0 +1,5 @@
+{"Transaction_ID":101,"Customer_Name":"Alice","Product":"Laptop","Amount":1200,"Date":"2025-06-01"}
+{"Transaction_ID":102,"Customer_Name":"Bob","Product":"Phone","Amount":800,"Date":"2025-06-02"}
+{"Transaction_ID":103,"Customer_Name":"Charlie","Product":"Tablet","Amount":450,"Date":"2025-06-03"}
+{"Transaction_ID":104,"Customer_Name":"David","Product":"Headphones","Amount":200,"Date":"2025-06-04"}
+{"Transaction_ID":105,"Customer_Name":"Eve","Product":"Monitor","Amount":300,"Date":"2025-06-05"}

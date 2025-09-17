@@ -1,0 +1,15 @@
+lorum ipsum 
+ Is this a new line - using tab 	 did it work? 
+ Direct multiline formating using tripple quotes
+-------------------------------
+
+WOW i can type anything in the code
+
+===============================
+
+No need of 
+ or tabs i thinkk
+
+Oh wait '\ n' works
+
++++++++++++++++++++++++++++++++

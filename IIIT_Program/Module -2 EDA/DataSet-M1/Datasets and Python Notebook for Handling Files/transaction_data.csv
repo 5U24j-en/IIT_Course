@@ -1,0 +1,6 @@
+Transaction_ID,Customer_Name,Product,Amount,Date
+101,Alice,Laptop,1200,2025-06-01
+102,Bob,Phone,800,2025-06-02
+103,Charlie,Tablet,450,2025-06-03
+104,David,Headphones,200,2025-06-04
+105,Eve,Monitor,300,2025-06-05

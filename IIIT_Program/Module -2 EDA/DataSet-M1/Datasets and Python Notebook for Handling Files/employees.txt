@@ -1,0 +1,4 @@
+Name	Department	Salary
+Alice	HR	50000
+Bob	Engineering	65000
+Carol	Marketing	55000
